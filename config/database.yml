@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  # database: naps_admin_2_development_1
+  database: aarya_real_estate
+  pool: 5
+  username: postgres
+  password: postgres
+  host: localhost
